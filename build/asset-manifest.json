@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.662ea682.chunk.css",
+    "main.js": "/static/js/main.25e60538.chunk.js",
+    "main.js.map": "/static/js/main.25e60538.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a7cfe668.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a7cfe668.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.a9bc34be.chunk.js": "/static/js/2.a9bc34be.chunk.js",
+    "static/js/2.a9bc34be.chunk.js.map": "/static/js/2.a9bc34be.chunk.js.map",
+    "static/js/3.9acfb1ea.chunk.js": "/static/js/3.9acfb1ea.chunk.js",
+    "static/js/3.9acfb1ea.chunk.js.map": "/static/js/3.9acfb1ea.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.662ea682.chunk.css.map": "/static/css/main.662ea682.chunk.css.map",
+    "static/js/2.a9bc34be.chunk.js.LICENSE.txt": "/static/js/2.a9bc34be.chunk.js.LICENSE.txt",
+    "static/media/CrudRedux.82660fda.png": "/static/media/CrudRedux.82660fda.png",
+    "static/media/Music.f4f7f1a1.JPG": "/static/media/Music.f4f7f1a1.JPG",
+    "static/media/Sneha.52ac5abf.jpg": "/static/media/Sneha.52ac5abf.jpg",
+    "static/media/inventory.61c7fca9.jpg": "/static/media/inventory.61c7fca9.jpg",
+    "static/media/prontoshare.e84921ec.JPG": "/static/media/prontoshare.e84921ec.JPG",
+    "static/media/weather.0ef1c59a.JPG": "/static/media/weather.0ef1c59a.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7cfe668.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.a9bc34be.chunk.js",
+    "static/css/main.662ea682.chunk.css",
+    "static/js/main.25e60538.chunk.js"
+  ]
+}

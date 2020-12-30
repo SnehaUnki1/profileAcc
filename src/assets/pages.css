@@ -1,0 +1,114 @@
+.bg {
+    height:100vh;
+    background-size:cover;
+    background-position: center;
+}
+
+.bg img{
+  top: -25%;
+  left: 0;
+  height: 40%;
+  position: relative;
+  z-index: 2;
+}
+
+
+.bg-text {
+    background-color: rgb(0,0,0);  /*Fallback color */
+   background-color: rgba(68, 47, 47, 0.4); /*Black w/opacity/see-through */
+    color: white;
+    font-weight: bolder;
+    border: 3px solid #f1f1f1;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, 0);
+    z-index: 2;
+    width: 60%;
+    padding: 5px;
+    text-align: center;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+  } 
+
+  .text-p{
+    /* position: relative; */
+    background-color: rgb(0,0,0);/* Fallback color */
+    background-color: rgba(255, 255, 255, 0.3);/* Black w/opacity/see-through */
+    color: rgb(0, 7, 7);
+    font-weight: 20000;
+    font-size: 1.5rem;
+    border: px solid #f1f1f1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -30%);
+    z-index: 2;
+    width: 60%;
+    padding: 20px;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  } 
+
+  .headline{
+    width: auto;
+    padding: 20px;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: bolder;
+    font-size: 3rem;
+    text-align: center;
+    font-family:  Verdana, Geneva, Tahoma, sans-seri;
+    color: oldlace;
+  }
+
+  strong{
+    color:maroon;
+    font-style: italic;
+  }
+
+ .skill-text {
+   padding-top: 10px;
+ }
+  @media screen and (max-width: 1024px) {
+    .text-p{
+      transform: translate(-50%, -20%);
+      height: auto;
+      font-size: medium;
+    }
+
+    .headline{
+      transform: translate(-50%, -20%);
+
+    }
+    .bgimg{
+      height: 110vh;
+    }
+    
+  }
+
+  @media screen and (max-width:450px){
+
+    .text-p{
+      transform: translate(-50%, -10%);
+      height: auto;
+      font-size: medium;
+      
+    }
+
+    .bgimg{
+      height: 250vh;
+    }
+
+    .headline{
+      top: 15%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+       
+    }
+    
+
+  }
